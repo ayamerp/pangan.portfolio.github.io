@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Originally BootStrapMade
+Redesigned by Aaliyah Pangan
 
-Template Name: Folio
+Credits to BootStrap below:
 Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
